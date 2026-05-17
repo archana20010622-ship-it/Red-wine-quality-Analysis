@@ -74,8 +74,6 @@ print(df.columns)
 print(df['quality'].unique())
 ```
 
----
-
 # ❌ Missing Values Analysis
 
 ```python
@@ -85,7 +83,6 @@ print(df.isnull().sum())
 ### Observation
 No missing values were found in the dataset.
 
----
 
 # 🔁 Duplicate Records
 
