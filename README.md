@@ -161,7 +161,7 @@ outliers = df[
 print(outliers[['residual sugar']])
 ```
 
-# 📦 Boxplot Visualization
+# 📦 Boxplot Visualization for Outlier Detection
 
 ```python
 sns.boxplot(df['residual sugar'])
