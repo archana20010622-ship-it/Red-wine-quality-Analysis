@@ -219,7 +219,10 @@ print(df2['quality'].value_counts().sort_index())
 - SMOTE
 
 ---
+## 🪐 Jupyter Notebook   
+[Redwine Dataset-EDA.ipynb](https://github.com/user-attachments/files/27882508/Redwine.Dataset-EDA.ipynb)
 
+---
 # ✅ Final Conclusion
 
 This project demonstrates practical **Exploratory Data Analysis (EDA)** techniques including:
